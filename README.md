@@ -6,4 +6,4 @@ Note: Please use this code only for guidance or if you feel you can't do the pro
 
 The problems are solved using Python language.
 
-The code you will write on the leetcode is the code written between """ The code starts from here.""" and """ The code ends from here.""".
+The code you will write on the leetcode is the code written between """ The code starts here.""" and """ The code ends here.""".
