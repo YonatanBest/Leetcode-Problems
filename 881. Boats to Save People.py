@@ -1,6 +1,7 @@
 people = [3,2,2,1]
 limit = 3
 def numRescueBoats(people, limit):
+    """ The code starts here."""
     boats = 0
     people.sort()
     i = 0
@@ -14,4 +15,5 @@ def numRescueBoats(people, limit):
             boats += 1
             j -= 1
     return boats
+    """ The code ends here."""
 print(numRescueBoats(people, limit))
