@@ -1,5 +1,6 @@
 nums = [1,2,3,1]
 def findPeakElement(nums):
+    """ The code starts here."""
     l = 0
     r = len(nums) - 1
     currentMax = 0
@@ -11,4 +12,5 @@ def findPeakElement(nums):
             currentMax = r
             l += 1
     return currentMax
+    """ The code ends here."""
 print(findPeakElement(nums))

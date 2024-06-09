@@ -1,4 +1,4 @@
-nums = [2,2,1]
+nums = [2,2,3,2]
 def singleNumber(nums):
         """ The code starts here."""
         nums.sort()
