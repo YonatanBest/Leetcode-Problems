@@ -19,5 +19,5 @@ def threeSum(nums):
                     while nums[l] == nums[l-1] and l < r:
                         l += 1
         return arr
-        """ The code starts here."""
+        """ The code ends here."""
 print(threeSum(nums))
